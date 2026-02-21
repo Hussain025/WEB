@@ -6,7 +6,7 @@
 - **Styling**: Tailwind CSS 3.4.1 with PostCSS and Autoprefixer
 - **Animations**: Framer Motion 12.34.3
 - **Icons**: Lucide React 0.344.0
-- **Backend**: Supabase JS 2.57.4
+- **Registration**: Google Forms integration
 
 ## Development Tools
 - **Linting**: ESLint 9.9.1 with React-specific plugins

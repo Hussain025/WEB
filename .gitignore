@@ -30,4 +30,3 @@ dist-ssr
 *.db
 *.sqlite
 *.sqlite3
-supabase/

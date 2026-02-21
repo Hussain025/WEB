@@ -59,11 +59,10 @@ git push origin main
 ```
 
 ## Environment Variables
-Don't forget to add your Supabase credentials as GitHub Secrets:
+Add your Google Form URL as a GitHub Secret:
 1. Go to Settings > Secrets and variables > Actions
-2. Add these secrets:
-   - `VITE_SUPABASE_URL`
-   - `VITE_SUPABASE_ANON_KEY`
+2. Add this secret:
+   - `VITE_GOOGLE_FORM_URL`
 
 Note: For client-side apps, environment variables are embedded at build time.
 Make sure your `.env` file is in `.gitignore` and never commit secrets!
